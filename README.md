@@ -48,6 +48,4 @@ Atualmente, estou em um nível intermediário de conhecimento em Java. Tenho uma
 
 Este projeto de banco digital foi uma excelente oportunidade para consolidar meus conhecimentos em Java e orientação a objetos. Através dele, pude aplicar práticas de programação sólidas e desenvolver uma aplicação funcional e escalável. Estou entusiasmada para continuar aprimorando minhas habilidades e explorar novas possibilidades no desenvolvimento de software.
 
----
 
-Se precisar de mais alguma coisa ou ajustes adicionais, é só avisar!
